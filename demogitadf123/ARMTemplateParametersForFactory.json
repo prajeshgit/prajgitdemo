@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "demogitadf123"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
